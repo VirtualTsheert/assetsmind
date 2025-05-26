@@ -1,0 +1,11 @@
+Model Information:
+* title:	Natan - Tidal Lord
+* source:	https://sketchfab.com/3d-models/natan-tidal-lord-310d5586e5b04962aae367af5086db45
+* author:	Zoiowo (https://sketchfab.com/Zoiowo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Natan - Tidal Lord" (https://sketchfab.com/3d-models/natan-tidal-lord-310d5586e5b04962aae367af5086db45) by Zoiowo (https://sketchfab.com/Zoiowo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
