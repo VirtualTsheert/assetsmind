@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fredrinn - Rogue Appraiser
+* source:	https://sketchfab.com/3d-models/fredrinn-rogue-appraiser-373e64c730894980984fdb0ea5302715
+* author:	Zoiowo (https://sketchfab.com/Zoiowo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fredrinn - Rogue Appraiser" (https://sketchfab.com/3d-models/fredrinn-rogue-appraiser-373e64c730894980984fdb0ea5302715) by Zoiowo (https://sketchfab.com/Zoiowo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
