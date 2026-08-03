@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hanzo - Akuma Ninja
+* source:	https://sketchfab.com/3d-models/hanzo-akuma-ninja-56abb3b111774c41877b1bbbaa79c8c3
+* author:	Zoiowo (https://sketchfab.com/Zoiowo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hanzo - Akuma Ninja" (https://sketchfab.com/3d-models/hanzo-akuma-ninja-56abb3b111774c41877b1bbbaa79c8c3) by Zoiowo (https://sketchfab.com/Zoiowo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
